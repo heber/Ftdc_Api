@@ -1,4 +1,4 @@
-Ftdc_Api
-========
+CtpApi DIYʵ�ְ汾
 
-上期技术CTP api的DIY实现,测试用途!~
+���нӿڶ��͹ٷ�һ��
+http://www.sfit.com.cn/5_2_DocumentDown.htm
